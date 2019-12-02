@@ -1,0 +1,11 @@
+D:\InterviewS\PREPARING\DESIGNPATTERN\BridgePattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp3.0\BridgePattern.exe
+D:\InterviewS\PREPARING\DESIGNPATTERN\BridgePattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp3.0\BridgePattern.deps.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\BridgePattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp3.0\BridgePattern.runtimeconfig.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\BridgePattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp3.0\BridgePattern.runtimeconfig.dev.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\BridgePattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp3.0\BridgePattern.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\BridgePattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp3.0\BridgePattern.pdb
+D:\InterviewS\PREPARING\DESIGNPATTERN\BridgePattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp3.0\BridgePattern.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\BridgePattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp3.0\BridgePattern.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\BridgePattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp3.0\BridgePattern.AssemblyInfo.cs
+D:\InterviewS\PREPARING\DESIGNPATTERN\BridgePattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp3.0\BridgePattern.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\BridgePattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp3.0\BridgePattern.pdb
